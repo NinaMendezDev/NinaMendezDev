@@ -8,7 +8,7 @@
 > *“Diseño con estrategia, programo con precisión y automatizo con IA para llevar tu negocio a otra dimensión.”*
 
 [![Email](https://img.shields.io/badge/Email-ninamendez.dev%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=22C55E)](mailto:ninamendez.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nina%20Mantilla-0D1117?style=for-the-badge&logo=linkedin&logoColor=22C55E)](https://www.linkedin.com/in/nina-mantilla-mendez-df)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nina%20Mantilla-0D1117?style=for-the-badge&logo=linkedin&logoColor=22C55E)](https://www.linkedin.com/in/nina-mantilla-mendez-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-NinaMendezDev-14532D?style=for-the-badge&logo=github&logoColor=86EFAC)](https://github.com/NinaMendezDev)
 [![Barcelona](https://img.shields.io/badge/Barcelona-Spain-0D1117?style=for-the-badge&logo=googlemaps&logoColor=22C55E)](https://github.com/NinaMendezDev)
 
